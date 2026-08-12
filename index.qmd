@@ -20,4 +20,4 @@ I turn raw data into actionable business insights.
 
 [View Project on Github](https://github.com/Salguod310/singapore-banks-stock-analysis)
 
-![] (/dashboard_page2.png.png)
+![Dashboard Previews] (dashboard_page2.png.png)
