@@ -1,7 +1,23 @@
 ---
-title: "quarto_personal_website"
+title: "My Data Portfolio"
 ---
 
-This is a Quarto website.
+#👋 Hi, I'm Tham Wai Hong Douglas
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+**Data Analyst** | Python, SQL, Power BI
+
+I turn raw data into actionable business insights.
+
+---
+
+# 📊 Featured Project
+
+### Singapore Banks Stock Analysis
+
+- Analyzed 5 years of stock data for DBS, OCBC and UOB
+- Answered 4 business questions: volatility, liquidity, market peaks, and recovery speed
+- Built an interactive Power BI dashboard
+
+[View Project on Github](https://github.com/Salguod310/singapore-banks-stock-analysis)
+
+![Dashboard Previews] (dashboard_page2.png.png)
