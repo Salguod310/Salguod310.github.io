@@ -146,7 +146,7 @@ format:
     # Simply, go to the link above, and find your interested theme
     # and write its lowercase name 
     # .i.e. Cyborg --> cyborg || Litera ---> litera
-    theme: cosmo
+    theme: 
       # You could use one theme only or have two themes (one for light mode, one dark mode)
       light: flatly
       dark:  darkly #solar 
