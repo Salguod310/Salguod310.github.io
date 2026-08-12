@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "My Data Portfolio",
     "section": "",
-    "text": "#👋 Hi, I’m Tham Wai Hong Douglas\nData Analyst | Python, SQL, Power BI\nI turn raw data into actionable business insights.\n\n\n📊 Featured Project\n\nSingapore Banks Stock Analysis\n\nAnalyzed 5 years of stock data for DBS, OCBC and UOB\nAnswered 4 business questions: volatility, liquidity, market peaks, and recovery speed\nBuilt an interactive Power BI dashboard\n\nView Project on Github\n![] (/dashboard_page2.png.png)"
+    "text": "#👋 Hi, I’m Tham Wai Hong Douglas\nData Analyst | Python, SQL, Power BI\nI turn raw data into actionable business insights.\n\n\n📊 Featured Project\n\nSingapore Banks Stock Analysis\n\nAnalyzed 5 years of stock data for DBS, OCBC and UOB\nAnswered 4 business questions: volatility, liquidity, market peaks, and recovery speed\nBuilt an interactive Power BI dashboard\n\nView Project on Github\n![Dashboard Previews] (dashboard_page2.png.png)"
   },
   {
     "objectID": "about.html",
