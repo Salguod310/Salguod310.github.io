@@ -59,9 +59,9 @@ website:
 
     right:
       - icon: github
-      - href: http://github.com/Salguod310
+        href: http://github.com/Salguod310
       - icon: linkedin
-      - href: http://linkedin.com/in/tham-wai-hong-douglas
+        href: http://linkedin.com/in/tham-wai-hong-douglas
 
     
     # I would have icons to show social media
