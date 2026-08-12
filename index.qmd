@@ -2,7 +2,7 @@
 title: "My Data Portfolio"
 ---
 
-#👋 Hi, I'm Tham Wai Hong Douglas
+# 👋 Hi, I'm Tham Wai Hong Douglas
 
 **Data Analyst** | Python, SQL, Power BI
 
