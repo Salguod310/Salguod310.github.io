@@ -1,5 +1,34 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+## Hi! I am Tham Wai Hong Douglas
+
+I am an aspiring Data Analyst with a Diploma in AI and Data Science. I am passionate about turning raw data into actionable business insights.
+
+### 🛠️ What do I do?
+
+- **Data Cleaning & Analysis:** Python (Pandas, NumPy, yfinance)
+- **Data Visualization:** Power BI
+- **Databases:** SQL (MySQL)
+- **Other Tools:** Git, Jupyter Notebook, Excel, Visual Studio Code, Matlab
+
+### 📊 Recent Projects
+
+I recently completed a stock analysis project on Singapore's 3 major banks (DBS, OCBC, UOB). I analyzed 5 years of data, answered 4 business questions, and built an interactive dashboard.
+
+🔗  [View Project on GitHub] (https://github.com/Salguod310/singapore-banks-stock-analysis)
+
+### 🎓 Education
+Diploma in AI & Data Science
+Kaplan Singapore, Feb 2026 - October 2026
+
+Foundation Diploma Kaplan Singapore, Aug 2025 - Feb 2026
+
+Nitec in Social Media & Web Development ITE College West, Jan 2014 - Dec 2015
+
+
+### 📫 Connect With Me
+- [LinkedIn] (http://linkedin.com/in/tham-wai-hong-douglas)
+- [GitHub] (https://github.com/Salguod310)
+- 📧 [douglastham_@hotmail.com]
