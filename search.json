@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "My Data Portfolio",
-    "section": "",
-    "text": "👋 Hi, I’m Tham Wai Hong Douglas\nData Analyst | Python, SQL, Power BI\nI turn raw data into actionable business insights.\n\n\n\n📊 Featured Project\n\nSingapore Banks Stock Analysis\n\nAnalyzed 5 years of stock data for DBS, OCBC and UOB\nAnswered 4 business questions: volatility, liquidity, market peaks, and recovery speed\nBuilt an interactive Power BI dashboard\n\nView Project on Github\n\n\n\nDashboard Previews"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
@@ -19,5 +12,33 @@
     "title": "About Me",
     "section": "",
     "text": "I am an aspiring Data Analyst with a Diploma in AI and Data Science. I am passionate about turning raw data into actionable business insights.\n\n\n\nData Cleaning & Analysis: Python (Pandas, NumPy, yfinance)\nData Visualization: Power BI\nDatabases: SQL (MySQL)\nOther Tools: Git, Jupyter Notebook, Excel, Visual Studio Code, Matlab\n\n\n\n\nI recently completed a stock analysis project on Singapore’s 3 major banks (DBS, OCBC, UOB). I analyzed 5 years of data, answered 4 business questions, and built an interactive dashboard.\n🔗 View Project on GitHub\n\n\n\nDiploma in AI & Data Science Kaplan Singapore, Feb 2026 - October 2026\nFoundation Diploma Kaplan Singapore, Aug 2025 - Feb 2026\nNitec in Social Media & Web Development ITE College West, Jan 2014 - Dec 2015\n\n\n\n\nLinkedIn\nGitHub\nEmail"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Analyzed 5 years of stock data for DBS, OCBC, and UOB using Python, SQL, and Power BI.\n\nAnswered 4 business questions on volatility, liquidity, market peaks, and recovery speed.\nBuilt an interactive 4-page Power BI dashboard.\n[View on GitHub] (https://github.com/Salguod310/singapore-banks-stock-analysis)\n\n\n\n\nDashboard Preview"
+  },
+  {
+    "objectID": "projects.html#singapore-banks-stock-analysis",
+    "href": "projects.html#singapore-banks-stock-analysis",
+    "title": "Projects",
+    "section": "",
+    "text": "Analyzed 5 years of stock data for DBS, OCBC, and UOB using Python, SQL, and Power BI.\n\nAnswered 4 business questions on volatility, liquidity, market peaks, and recovery speed.\nBuilt an interactive 4-page Power BI dashboard.\n[View on GitHub] (https://github.com/Salguod310/singapore-banks-stock-analysis)\n\n\n\n\nDashboard Preview"
+  },
+  {
+    "objectID": "projects.html#quantitative-pairs-trading-strategy-in-progress",
+    "href": "projects.html#quantitative-pairs-trading-strategy-in-progress",
+    "title": "Projects",
+    "section": "Quantitative Pairs Trading Strategy (In Progress)",
+    "text": "Quantitative Pairs Trading Strategy (In Progress)\nBuilt a pairs trading backtest for SingTel (Z74.SI) and CapitaLand Integrated Commercial Trust (C38U.SI).\n\nScreened 66 pairs using the Engle-Granger cointegration test (best pair: p = 0.000229).\nBuilt a custom backtester with hedge ratio (0.2684) and transaction costs (0.1%).\nCurrently adding Random Forest ML to predict spread direction.\nGitHub link coming soon."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Data Portfolio",
+    "section": "",
+    "text": "👋 Hi, I’m Tham Wai Hong Douglas\nData Analyst | Python, SQL, Power BI\nI turn raw data into actionable business insights.\n\n\n\n📊 Featured Project\n\nSingapore Banks Stock Analysis\n\nAnalyzed 5 years of stock data for DBS, OCBC and UOB\nAnswered 4 business questions: volatility, liquidity, market peaks, and recovery speed\nBuilt an interactive Power BI dashboard\n\nView Project on Github\n\n\n\nDashboard Previews"
   }
 ]
