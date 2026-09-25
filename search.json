@@ -74,7 +74,7 @@
     "href": "quant-project.html#conclusion",
     "title": "Tham Wai Hong Douglas",
     "section": "Conclusion",
-    "text": "Conclusion\nThe strategy identified a cointegrated pair and generated a small positive return before ML. However, the Sharpe ratio (0.12) and maximum drawdown (-0.53) indicate poor risk-adjusted performance. The Random Forest achieved 52.7% accuracy, which was insufficient to improve strategy. The strategy perform poorly in bear markets and weakly in recovery periods."
+    "text": "Conclusion\nThe strategy identified a cointegrated pair and generated a small positive return before ML. However, the Sharpe ratio (0.12) and maximum drawdown (-0.53) indicate poor risk-adjusted performance. The Random Forest achieved 53.5% accuracy, which was insufficient to improve strategy. The strategy perform poorly in bear markets and weakly in recovery periods."
   },
   {
     "objectID": "quant-project.html#tools-used",
