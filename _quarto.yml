@@ -56,7 +56,9 @@ website:
         text: "About"
       - href: projects.qmd
         text: "Projects"
-
+      - href: quant-project.qmd
+        text: "Quant Project"
+        
     right:
       - icon: github
         href: http://github.com/Salguod310
