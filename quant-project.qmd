@@ -1,0 +1,34 @@
+---
+Title : "Quantitative Pairs Trading Strategy"
+---
+
+## Objective
+
+To test whether a cointegrated pair of SGX listed stocks can generate positive risk-adjusted returns using a pairs trading strategy, and whether a Random Forest model can improve performance.
+
+## Methodlogy
+1. Pulled 5 years of daily price data for 12 SGX-listed stocks using 'yfinance'.
+2. Screened all 66 pairs for cointegration using Engle-Granger test.
+3. Selected the strongest pair: **SingTel(Z74.SI) vs CapitaLand Integrated Commercial Trust (C38U.SI)**, p = 0.000229.
+4. Calculated the hedge ratio using OLS regression (Beta (β) = 0.2684)
+5. Built a backtesting engine from scrach with a Z-score mean-reversion strategy.
+6. Included transaction cost of 0.1% per trade.
+7. Trained a Random Forest Classifier to predict future spread direction.
+
+## Key Findings
+
+| Question | Answer |
+| :--- | :--- |
+| Q1: Is there a cointegrated pair? | Yes. Singtel vs CapitaLand (p = 0.000229). |
+| Q2: Does the strategy generate positive returns? | Weakly. Sharpe = 0.12, Sortino = 0.048, Max Drawdown = -0.53. |
+| Q3: Can ML improve the strategy? | No. ML Sharpe = -0.26. |
+| Q4: How does it perform across regimes? | Bear = -1.18, Recovery = 0.22, Recent = 0.37. |
+
+## Conclusion
+
+The strategy identified a cointegrated pair and generated a small positive return before ML. However, the Sharpe ratio (0.12) and maximum drawdown (-0.53) indicate poor risk-adjusted performance.
+The Random Forest achieved 52.7% accuracy, which was insufficient to improve strategy. The strategy perform poorly in bear markets and weakly in recovery periods.
+
+## Tools Used
+
+Python, Pands, Statsmodels, Scikit-learn, Matplotlib
