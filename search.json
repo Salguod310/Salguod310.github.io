@@ -39,7 +39,7 @@
     "href": "projects.html#quantitative-pairs-trading-strategy",
     "title": "Projects",
     "section": "Quantitative Pairs Trading Strategy",
-    "text": "Quantitative Pairs Trading Strategy\nBuilt a pairs trading backtest for SingTel (Z74.SI) and CapitaLand Integrated Commercial Trust (C38U.SI).\n\nScreened 66 pairs using the Engle-Granger cointegration test (best pair: p = 0.000229).\nBuilt a custom backtester with hedge ratio (0.2684) and transaction costs (0.1%).\nTrained a Random Forest classifier (52.7% accuracy).\nRead the full write-up\nView the Code on GitHub"
+    "text": "Quantitative Pairs Trading Strategy\nBuilt a pairs trading backtest for SingTel (Z74.SI) and CapitaLand Integrated Commercial Trust (C38U.SI).\n\nScreened 66 pairs using the Engle-Granger cointegration test (best pair: p = 0.000229).\nBuilt a custom backtester with hedge ratio (0.2684) and transaction costs (0.1%).\nTrained a Random Forest classifier (53.5% accuracy).\nRead the full write-up\nView the Code on GitHub"
   },
   {
     "objectID": "quant-project.html",
