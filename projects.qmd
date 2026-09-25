@@ -20,6 +20,6 @@ Built a pairs trading backtest for SingTel (Z74.SI) and CapitaLand Integrated Co
 
 - Screened 66 pairs using the Engle-Granger cointegration test (best pair: p = 0.000229).
 - Built a custom backtester with hedge ratio (0.2684) and transaction costs (0.1%).
-- Trained a Random Forest classifier (52.7% accuracy).
+- Trained a Random Forest classifier (53.5% accuracy).
 - [Read the full write-up](quant-project.qmd)
 - [View the Code on GitHub](https://github.com/Salguod310/quant-pairs-trading)
