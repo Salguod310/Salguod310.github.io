@@ -35,11 +35,11 @@
     "text": "Analyzed 5 years of stock data for DBS, OCBC, and UOB using Python, SQL, and Power BI.\n\nAnswered 4 business questions on volatility, liquidity, market peaks, and recovery speed.\nBuilt an interactive 4-page Power BI dashboard.\nView on GitHub\n\n\n\n\nDashboard Preview"
   },
   {
-    "objectID": "projects.html#quantitative-pairs-trading-strategy-in-progress",
-    "href": "projects.html#quantitative-pairs-trading-strategy-in-progress",
+    "objectID": "projects.html#quantitative-pairs-trading-strategy",
+    "href": "projects.html#quantitative-pairs-trading-strategy",
     "title": "Projects",
-    "section": "Quantitative Pairs Trading Strategy (In Progress)",
-    "text": "Quantitative Pairs Trading Strategy (In Progress)\nBuilt a pairs trading backtest for SingTel (Z74.SI) and CapitaLand Integrated Commercial Trust (C38U.SI).\n\nScreened 66 pairs using the Engle-Granger cointegration test (best pair: p = 0.000229).\nBuilt a custom backtester with hedge ratio (0.2684) and transaction costs (0.1%).\nCurrently adding Random Forest ML to predict spread direction.\nGitHub link coming soon."
+    "section": "Quantitative Pairs Trading Strategy",
+    "text": "Quantitative Pairs Trading Strategy\nBuilt a pairs trading backtest for SingTel (Z74.SI) and CapitaLand Integrated Commercial Trust (C38U.SI).\n\nScreened 66 pairs using the Engle-Granger cointegration test (best pair: p = 0.000229).\nBuilt a custom backtester with hedge ratio (0.2684) and transaction costs (0.1%).\nTrained a Random Forest classifier (52.7% accuracy).\nRead the full write-up\nView the Code on GitHub"
   },
   {
     "objectID": "quant-project.html",
