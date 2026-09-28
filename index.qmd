@@ -6,7 +6,7 @@ title: "My Data Portfolio"
 
 **Data Analyst** | Python, SQL, Power BI
 
-I turn raw data into actionable business insights.
+I turn raw data into insights that drive decisions.
 
 ---
 
