@@ -4,7 +4,7 @@ title: "About Me"
 
 ## Hi! I am Tham Wai Hong Douglas
 
-I am an aspiring Data Analyst with a Diploma in AI and Data Science. I am passionate about turning raw data into actionable business insights.
+Final-year Diploma in AI & Data Science student at Kaplan. Passionate about turning raw data into actionable insights—from business analytics to quantitative finance. Currently exploring opportunities in data analytics, quantitative research, and related fields.
 
 ### 🛠️ What do I do?
 
