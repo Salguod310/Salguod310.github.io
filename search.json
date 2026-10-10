@@ -82,5 +82,12 @@
     "title": "Tham Wai Hong Douglas",
     "section": "Tools Used",
     "text": "Tools Used\nPython, Pands, Statsmodels, Scikit-learn, Matplotlib"
+  },
+  {
+    "objectID": "quant-project.html#future-improvements",
+    "href": "quant-project.html#future-improvements",
+    "title": "Tham Wai Hong Douglas",
+    "section": "Future Improvements",
+    "text": "Future Improvements\n\nTest alternative models (XGBoost, LSTM) better suited for time-series data.\nAdd more predictive features (VIX, interest rates, volume).\nExplore intraday data for cleaner signals.\nTest different Z-score thresholds (±1.5, ±2.5, ±3).\nAdd stop-loss rules to limit drawdown.\nImplement dynamic position sizing based on volatility.\nTest the second-best cointegrated pair (ST Engineering vs CapitaLand)."
   }
 ]
