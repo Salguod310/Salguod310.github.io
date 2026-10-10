@@ -32,3 +32,12 @@ The Random Forest achieved 53.5% accuracy, which was insufficient to improve str
 ## Tools Used
 
 Python, Pands, Statsmodels, Scikit-learn, Matplotlib
+
+## Future Improvements
+1. Test alternative models (XGBoost, LSTM) better suited for time-series data.
+2. Add more predictive features (VIX, interest rates, volume).
+3. Explore intraday data for cleaner signals.
+4. Test different Z-score thresholds (±1.5, ±2.5, ±3).
+5. Add stop-loss rules to limit drawdown.
+6. Implement dynamic position sizing based on volatility.
+7. Test the second-best cointegrated pair (ST Engineering vs CapitaLand).
